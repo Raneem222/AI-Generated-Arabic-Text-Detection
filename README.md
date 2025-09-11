@@ -1,0 +1,1 @@
+# AI-Generated-Arabic-Text-Detection
